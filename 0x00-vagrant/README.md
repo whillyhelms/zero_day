@@ -1,1 +1,1 @@
-Prints operating system
+print system information
